@@ -3,6 +3,7 @@ This project  understanding Node js - RabbitMQ
 -start the consumer - node producers.js
 
 Sample Request: 
+method: POST
 {
     "message": [
         {
