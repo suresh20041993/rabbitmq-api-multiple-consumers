@@ -1,4 +1,4 @@
-This is project js node js - RabbitMQ
+This is project js Node js - RabbitMQ
 -start the producer - node producers.js
 -start the consumer - node producers.js
 
