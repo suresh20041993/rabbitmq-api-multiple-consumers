@@ -1,0 +1,15 @@
+This is project js node js - RabbitMQ
+-start the producer - node producers.js
+-start the consumer - node producers.js
+
+Sample Request: 
+{
+    "message": [
+        {
+            "sku": "SD00100",
+            "qty": 1,
+            "amt": "100"
+        }
+    ]
+
+}
